@@ -2,7 +2,9 @@
 var hello = ‘abc’;
 
 function say(){
-alert(hello);
+
+   alert(hello);
+
 }
 
 say();
