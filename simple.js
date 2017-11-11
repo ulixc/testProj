@@ -1,5 +1,5 @@
 
-var hello = ‘abc lallala’;
+var hello = ‘Commit to remote branch’;
 
 function say(){
 
