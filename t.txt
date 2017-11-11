@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Cosrrr sob tutor napisze @@@@
-=======
-Cossssss sob tutor napisze @@@@
->>>>>>> 06be06d8bfafa257fe6cfe1c972698b9c6f1eac7
 
 My first worlds in git
 
